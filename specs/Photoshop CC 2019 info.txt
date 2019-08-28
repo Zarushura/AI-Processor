@@ -1,0 +1,310 @@
+Adobe Photoshop Version: 20.0.6 20190724.r.80 2019/07/24: 1207344  x64
+Number of Launches: 213
+Operating System: Mac OS 10.14.6
+System architecture: Intel CPU Family:6, Model:14, Stepping:3 with MMX, SSE Integer, SSE FP, SSE2, SSE3, SSE4.1, SSE4.2, AVX, AVX2, HyperThreading
+Physical processor count: 4
+Logical processor count: 8
+Processor speed: 4000 MHz
+Built-in memory: 16384 MB
+Free memory: 9543 MB
+Memory available to Photoshop: 14376 MB
+Memory used by Photoshop: 70 %
+Alias Layers: Disabled.
+Modifier Palette: Disabled.
+Highbeam: Enabled.
+Touch Bar Property Feedback: Disabled.
+Image tile size: 1024K
+Image cache levels: 4
+Font Preview: Medium
+TextComposer: Latin
+Photoshop crashed on 8/7/19 at 4:32:58 pm (AllocateSharedGLResources)
+Display: 1
+Main Display
+Display Bounds: top=0, left=0, bottom=1440, right=2560
+OpenGL Drawing: Enabled.
+OpenGL Allow Old GPUs: Not Detected.
+OpenGL Drawing Mode: Advanced
+OpenGL Allow Normal Mode: True.
+OpenGL Allow Advanced Mode: True.
+AIFCoreInitialized=1
+AIFOGLInitialized=1
+OGLContextCreated=1
+NumGLGPUs=1
+NumCLGPUs=1
+NumNativeGPUs=1
+glgpu[0].GLVersion="2.1"
+glgpu[0].IsIntegratedGLGPU=0
+glgpu[0].GLMemoryMB=2048
+glgpu[0].GLName="AMD Radeon R9 M390 OpenGL Engine"
+glgpu[0].GLVendor="ATI Technologies Inc."
+glgpu[0].GLVendorID=4098
+glgpu[0].GLRectTextureSize=16384
+glgpu[0].GLRenderer="AMD Radeon R9 M390 OpenGL Engine"
+glgpu[0].GLRendererID=16915458
+glgpu[0].HasGLNPOTSupport=1
+glgpu[0].CanCompileProgramGLSL=1
+glgpu[0].GLFrameBufferOK=1
+glgpu[0].glGetString[GL_SHADING_LANGUAGE_VERSION]="1.20"
+glgpu[0].glGetProgramivARB[GL_FRAGMENT_PROGRAM_ARB][GL_MAX_PROGRAM_INSTRUCTIONS_ARB]=[16384]
+glgpu[0].glGetIntegerv[GL_MAX_TEXTURE_UNITS]=[8]
+glgpu[0].glGetIntegerv[GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS]=[16]
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS]=[16]
+glgpu[0].glGetIntegerv[GL_MAX_TEXTURE_IMAGE_UNITS]=[16]
+glgpu[0].glGetIntegerv[GL_MAX_DRAW_BUFFERS]=[8]
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_UNIFORM_COMPONENTS]=[4096]
+glgpu[0].glGetIntegerv[GL_MAX_FRAGMENT_UNIFORM_COMPONENTS]=[4096]
+glgpu[0].glGetIntegerv[GL_MAX_VARYING_FLOATS]=[128]
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_ATTRIBS]=[16]
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_PROGRAM]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_FRAGMENT_PROGRAM]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_SHADER]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_FRAGMENT_SHADER]=1
+glgpu[0].extension[AIF::OGL::GL_EXT_FRAMEBUFFER_OBJECT]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_TEXTURE_RECTANGLE]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_TEXTURE_FLOAT]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_OCCLUSION_QUERY]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_BUFFER_OBJECT]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_SHADER_TEXTURE_LOD]=1
+clgpu[0].CLPlatformVersion="1.2 (Jun 23 2019 21:50:55)"
+clgpu[0].CLDeviceVersion="1.2 "
+clgpu[0].IsIntegratedCLGPU=0
+clgpu[0].CLMemoryMB=2048
+clgpu[0].CLName="AMD Radeon R9 M390 Compute Engine"
+clgpu[0].CLVendor="AMD"
+clgpu[0].CLVendorID=16915456
+clgpu[0].CLDriverVersion="1.2 (Jul  2 2019 21:41:38)"
+clgpu[0].CLBandwidth=1.24243e+11
+clgpu[0].CLCompute=854.772
+nativegpu[0].NativeName="AMD Radeon R9 M390"
+License Type: Subscription
+Serial number: 94070049474887659032
+GUIDBucket:Composite Core (enable_composite_core): onComposite Core UI (comp_core_ui): offDocument Graph (enable_doc_graph): off
+Application folder: /Applications/Adobe Photoshop CC 2019/
+Photoshop scratch has async I/O enabled
+Scratch volume(s):
+  Startup, 953.4G, 448.7G free
+Required Plug-ins folder: /Applications/Adobe Photoshop CC 2019/Adobe Photoshop CC 2019.app/Contents/Required/Plug-ins/
+Primary Plug-ins folder: /Applications/Adobe Photoshop CC 2019/Plug-Ins/
+
+Installed components:
+
+   dvametadata.framework   dvametadata   12.1.0.0   
+   AdobeXMPScript.framework   AdobeXMPScript   79.163499   79.163499
+   ICUUnicode.framework   ICUUnicode   3.61   "gtlib_11.0" "." "22995"
+   ICUConverter.framework   ICUConverter   3.61   "gtlib_11.0" "." "22995"
+   AdobeCrashReporter.framework   AdobeCrashReporter   7.7.2   
+   boost_system.framework   boost_system   12.1.0.0   
+   AdobeACE.framework   AdobeACE   2.20.02.42314   79.603421
+   AdobeOwl.framework   AdobeOwl   5.3.0   
+   mediacoreif.framework   mediacoreif   12.1.0.0   
+   dvascripting.framework   dvascripting   12.1.0.0   
+   dvaappsupport.framework   dvaappsupport   12.1.0.0   
+   dvaunittesting.framework   dvaunittesting   12.1.0.0   
+   AdobeAXE8SharedExpat.framework   AdobeAXE8SharedExpat   3.8.0.41336   79.598424
+   k2.framework   k2   1   
+   AIDE.framework   AIDE   1.5.0.41688   79.600470
+   dynamiclink.framework   dynamiclink   12.1.0.0   
+   dvaaccelerate.framework   dvaaccelerate   12.1.0.0   
+   dvametadataUI.framework   dvametadataUI   12.1.0.0   
+   AdobeExtendScript.framework   AdobeExtendScript   4.5.9.1   81.1157194
+   boost_filesystem.framework   boost_filesystem   12.1.0.0   
+   AdobeBIB.framework   AdobeBIB   1.2.03.41706   79.600623
+   AdobeXMPFiles.framework   AdobeXMPFiles   79.163499   79.163499
+   AdobeLinguistic.framework      23636   
+   dvaplayer.framework   dvaplayer   12.1.0.0   
+   PlugPlugOwl.framework   PlugPlugOwl   9.2.1.39   
+   AdobeAGM.framework   AdobeAGM   4.30.87.41706   79.600623
+   adobe_caps.framework   adobe_caps   11.0.0.14   1.584361
+   AdobeSVGRE.framework   AdobeSVGRE   6.0   79.600623
+   AdobePDFL.framework   AdobePDFL   15.0.0.41785   79.301181
+   dvacore.framework   dvacore   12.1.0.0   
+   AdobePIP.framework   AdobePIP   8.0.0.52.48027   
+   AdobePDFSettings.framework   AdobePDFSettings   1.4   
+   AdobeAXEDOMCore.framework   AdobeAXEDOMCore   3.8.0.41336   79.598424
+   dvatransport.framework   dvatransport   12.1.0.0   
+   Cg.framework   NVIDIA Cg      
+   AdobeXMP.framework   AdobeXMPCore   79.163499   79.163499
+   AdobeJP2K.framework   AdobeJP2K   1.2.2.41336   79.271024
+   dvaaudiodevice.framework   dvaaudiodevice   12.1.0.0   
+   LogSession.framework   LogSession   8.0.0.52.48027   
+   PlugPlugExternalObject.framework      9.2.1.39   
+   AdobeScCore.framework   AdobeScCore   4.5.9.1   81.1157194
+   AdobeSVGAGM.framework   AdobeSVGAGM   1.0.41706   79.600623
+   dvametadataapi.framework   dvametadataapi   12.1.0.0   
+   CITThreading.framework         
+   WRServices.framework         
+   AdobeBIBUtils.framework   AdobeBIBUtils   1.1.41706   79.600623
+   boost_threads.framework   boost_threads   12.1.0.0   
+   aif.framework   aif   6.0.00.1   1.
+   AdobeCoolType.framework   AdobeCoolType   5.17.00.41706   79.600623
+   dvamediatypes.framework   dvamediatypes   12.1.0.0   
+   AdbePM.framework   AdbePM   3.0.00.377262   1.601805
+   boost_date_time.framework   boost_date_time   12.1.0.0   
+   opencv2.framework   opencv2   3.2.0   
+   AdobeMPS.framework   AdobeMPS   5.8.1.44200   95.612057
+   dvaui.framework   dvaui   12.1.0.0   
+   ahclient.framework   ahclient   4.0.0.0   
+   ICUData.framework   ICUData   3.61   "gtlib_11.0" "." "22995"
+   dvamarshal.framework   dvamarshal   12.1.0.0   
+
+
+Required plug-ins:
+
+   3D Studio 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Accented Edges 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Adaptive Wide Angle 20.0.6, © 2014-2018 Adobe. All rights reserved. - from the file “Adaptive Wide Angle.plugin”
+   Angled Strokes 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Average 20.0  © 1993-2018 Adobe. All rights reserved. - from the file “Average.plugin”
+   Bas Relief 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   BMP 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Camera Raw 11.4 (273), Copyright © 2019 Adobe Systems Incorporated - from the file “Camera Raw.plugin”
+   Camera Raw Filter 11.4 (273), Copyright © 2019 Adobe Systems Incorporated - from the file “Camera Raw.plugin”
+   Chalk & Charcoal 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Charcoal 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Chrome 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Cineon 20.0  © 2002-2018 Adobe. All rights reserved. - from the file “Cineon.plugin”
+   Clouds 20.0  © 1993-2018 Adobe. All rights reserved. - from the file “Clouds.plugin”
+   Collada DAE 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Color Halftone 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Colored Pencil 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Conté Crayon 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Craquelure 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Crop and Straighten Photos 20.0  © 2003-2018 Adobe. All rights reserved. - from the file “CropPhotosAuto.plugin”
+   Crop and Straighten Photos Filter 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Crosshatch 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Crystallize 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Cutout 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Dark Strokes 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   De-Interlace 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Dicom 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “dicom.plugin”
+   Difference Clouds 20.0  © 1993-2018 Adobe. All rights reserved. - from the file “Clouds.plugin”
+   Diffuse Glow 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Displace 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Dry Brush 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Eazel Acquire 20.0  © 2007-2018 Adobe. All rights reserved. - from the file “EazelAcquire.plugin”
+   Entropy 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   Export Color Lookup Tables 20.0  © 2012-2018 Adobe. All rights reserved. - from the file “Export3DLUT.plugin”
+   Extrude 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   FastCore Routines 20.0  © 1990-2018 Adobe. All rights reserved. - from the file “FastCore.plugin”
+   Fibers 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Film Grain 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Filter Gallery 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Flash 3D 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Fresco 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Glass 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Glowing Edges 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Google Earth 4 KMZ 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Grain 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Graphic Pen 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Halftone Pattern 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Halide Bottlenecks 20.0  © 2018 Adobe. All rights reserved. - from the file “HalideBottlenecks.plugin”
+   HDRMergeUI 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “HDRMergeUI.plugin”
+   HSB/HSL 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   IFF Format 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   IGES 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Ink Outlines 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   JPEG 2000 20.0  © 2001-2018 Adobe. All rights reserved. - from the file “JPEG2000.plugin”
+   Kurtosis 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   Lens Blur 20.0.6, © 2002-2018 Adobe. All rights reserved. - from the file “Lens Blur.plugin”
+   Lens Correction 20.0.6, © 2002-2018 Adobe. All rights reserved. - from the file “Lens Correct.plugin”
+   Lens Flare 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Liquify 20.0.6, © 2001-2018 Adobe. All rights reserved. - from the file “Liquify.plugin”
+   Matlab Operation 20.0  © 1993-2018 Adobe. All rights reserved. - from the file “ChannelPort.plugin”
+   Maximum 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   Mean 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   Measurement Core 20.0  © 1993-2018 Adobe. All rights reserved. - from the file “MeasurementCore.plugin”
+   Median 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   Mezzotint 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Minimum 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   MMXCore Routines 20.0  © 1990-2018 Adobe. All rights reserved. - from the file “MMXCore.plugin”
+   Mosaic Tiles 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Multiprocessor Support 20.0  © 1990-2018 Adobe. All rights reserved. - from the file “MultiProcessor Support.plugin”
+   Neon Glow 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Note Paper 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   NTSC Colors 20.0  © 1993-2018 Adobe. All rights reserved. - from the file “NTSC Colors.plugin”
+   Ocean Ripple 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   OpenEXR 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Paint Daubs 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Palette Knife 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Patchwork 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Paths to Illustrator 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   PCX 20.0  © 1989-2018 Adobe. All rights reserved. - from the file “PCX.plugin”
+   Photocopy 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Picture Package Filter 20.0  © 1993-2018 Adobe. All rights reserved. - from the file “ChannelPort.plugin”
+   Pinch 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Pixar 20.0  © 1989-2018 Adobe. All rights reserved. - from the file “Pixar.plugin”
+   Plaster 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Plastic Wrap 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   PLY 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Pointillize 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Polar Coordinates 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Portable Bit Map 20.0  © 1989-2018 Adobe. All rights reserved. - from the file “PBM.plugin”
+   Poster Edges 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   PRC 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Radial Blur 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Radiance 20.0  © 2003-2018 Adobe. All rights reserved. - from the file “Radiance.plugin”
+   Range 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   Render Color Lookup Grid 20.0  © 2012-2018 Adobe. All rights reserved. - from the file “Export3DLUT.plugin”
+   Reticulation 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Ripple 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Rough Pastels 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Save for Web 20.0.6, © 1999-2018 Adobe. All rights reserved. - from the file “Save for Web.plugin”
+   ScriptingSupport 20.0, © 2002-2018 Adobe. All rights reserved. - from the file “ScriptingSupport.plugin”
+   Shake Reduction 20.0.6, © 2014-2018 Adobe. All rights reserved. - from the file “Shake Reduction.plugin”
+   Shear 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Skewness 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   Smart Blur 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Smudge Stick 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Solarize 20.0  © 1993-2018 Adobe. All rights reserved. - from the file “Solarize.plugin”
+   Spaces 20.0, © 2015-2018 Adobe. All rights reserved. - from the file “Spaces.plugin”
+   Spatter 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Spherize 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Sponge 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Sprayed Strokes 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Stained Glass 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Stamp 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Standard Deviation 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   STL 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Sumi-e 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Summation 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   Targa 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Texturizer 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Tiles 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Torn Edges 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Twirl 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   U3D 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Underpainting 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Vanishing Point 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “VanishingPoint.plugin”
+   Variance 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “statistics.plugin”
+   Virtual Reality Modeling Language | VRML 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Water Paper 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Watercolor 20.0.6, © 1991-2018 Adobe. All rights reserved. - from the file “Filter Gallery.plugin”
+   Wave 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Wavefront|OBJ 20.0  © 2006-2018 Adobe. All rights reserved. - from the file “U3D.plugin”
+   Wind 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+   Wireless Bitmap 20.0  © 1989-2018 Adobe. All rights reserved. - from the file “WBMP.plugin”
+   ZigZag 20.0.6, © 2003-2018 Adobe. All rights reserved. - from the file “Standard Multiplugin.plugin”
+
+Optional and third party plug-ins:
+
+   ScriptListener 13.0, Copyright © 2012 Adobe Systems Incorporated - from the file “/Applications/Adobe Photoshop CC 2019/Plug-Ins/Utilities/ScriptingListener.plugin/”
+
+Duplicate and Disabled plug-ins: NONE
+
+
+Plug-ins that failed to load: NONE
+
+Extensions:
+
+   com.adobe.inapp.purchase  1.0.0 - from the file “/Library/Application Support/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_3_2_108/purchaseStock.html”
+   com.adobe.Butler.backend  2.1.1 - from the file “/Applications/Adobe Photoshop CC 2019/Adobe Photoshop CC 2019.app/Contents/Required/CEP/extensions/com.adobe.Butler.backend/index.html”
+   Libraries  1.0.0 - from the file “/Library/Application Support/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_3_2_108/index.html”
+   com.adobe.stock.panel.licensing  0.1.0 - from the file “/Applications/Adobe Photoshop CC 2019/Adobe Photoshop CC 2019.app/Contents/Required/CEP/extensions/com.adobe.stock.panel.licensing/index.html”
+   New Document  2.5.1 - from the file “/Library/Application Support/Adobe/CEP/extensions/com.adobe.ccx.fnft-2.5.1/fnft.html?v=2.5.1.8”
+   com.adobe.inapp.typekit.purchase  1.0.0 - from the file “/Library/Application Support/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_3_2_108/purchaseTypekit.html”
+   Home  2.7.2 - from the file “/Library/Application Support/Adobe/CEP/extensions/com.adobe.ccx.start-2.7.2/index.html?v=2.7.2.13”
+   Adobe Color Themes  6.1.0 - from the file “/Applications/Adobe Photoshop CC 2019/Adobe Photoshop CC 2019.app/Contents/Required/CEP/extensions/com.adobe.KulerPanel.html/index.html”
+   Export As  4.6.7 - from the file “/Applications/Adobe Photoshop CC 2019/Adobe Photoshop CC 2019.app/Contents/Required/CEP/extensions/com.adobe.photoshop.crema/index.html”
+   Export As  4.6.7 - from the file “/Applications/Adobe Photoshop CC 2019/Adobe Photoshop CC 2019.app/Contents/Required/CEP/extensions/com.adobe.photoshop.crema/index.html”
+
+Installed TWAIN devices: NONE
