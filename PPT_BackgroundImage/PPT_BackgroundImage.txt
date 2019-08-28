@@ -1,0 +1,30 @@
+Sub background()
+    Dim sld As Slide
+    Dim myFolder As String
+    Dim myFileCount As Integer
+    Dim i As Integer
+    
+    On Error GoTo 0
+    
+    myFolder = AppleScriptTask("SelectFolder.scpt", "AppleScriptFolder", "thePosix")
+    myFileCount = AppleScriptTask("SelectFolder.scpt", "AppleScriptCount", "pictureCount")
+
+    For i = myFileCount To 1 Step -1
+        Set newSlide = ActivePresentation.Slides(1).Duplicate
+            With newSlide
+                newSlide.FollowMasterBackground = msoFalse
+                newSlide.DisplayMasterShapes = msoFalse
+                    If i < 100 Then
+                        With newSlide.background
+                            .Fill.UserPicture (myFolder & "Slide " & Format(i, "0#") & ".jpg")
+                        End With
+                    Else
+                        With newSlide.background
+                            .Fill.UserPicture (myFolder & "Slide " & i & ".jpg")
+                        End With
+                    End If
+            End With
+    Next i
+    
+    ActivePresentation.Slides(1).Delete
+End Sub
